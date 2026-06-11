@@ -7,11 +7,11 @@
 <p align="center"><em>Where logic meets imagination.</em></p>
 
 <p align="center">
-  <a href="https://thehope2k.com/professional/"><img src="https://img.shields.io/badge/%E2%8C%A8%EF%B8%8F%20Developer-2563EB?style=for-the-badge&labelColor=2563EB" alt="Developer"></a>
+  <a href="https://thehope2k.com/professional/"><img src="./assets/btn-developer.svg" alt="Developer — the work I build" height="62"></a>
   &nbsp;
-  <a href="https://thehope2k.com/personal/"><img src="https://img.shields.io/badge/%E2%9C%8D%EF%B8%8F%20Writer-FF6719?style=for-the-badge&labelColor=FF6719" alt="Writer"></a>
+  <a href="https://thehope2k.com/personal/"><img src="./assets/btn-writer.svg" alt="Writer — the words I write" height="62"></a>
   &nbsp;
-  <a href="https://thehope2k.com/growth/"><img src="https://img.shields.io/badge/%F0%9F%8C%B1%20Thinker-16A34A?style=for-the-badge&labelColor=16A34A" alt="Thinker"></a>
+  <a href="https://thehope2k.com/growth/"><img src="./assets/btn-thinker.svg" alt="Thinker — the things I learn" height="62"></a>
 </p>
 
 <p align="center">

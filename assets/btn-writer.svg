@@ -1,0 +1,16 @@
+<svg width="250" height="72" viewBox="0 0 250 72" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#FB923C"/>
+      <stop offset="1" stop-color="#EA580C"/>
+    </linearGradient>
+    <filter id="s" x="-20%" y="-30%" width="140%" height="170%">
+      <feDropShadow dx="0" dy="3" stdDeviation="4" flood-color="#EA580C" flood-opacity="0.45"/>
+    </filter>
+  </defs>
+  <rect x="6" y="7" width="238" height="54" rx="16" fill="url(#g)" filter="url(#s)"/>
+  <rect x="6" y="7" width="238" height="54" rx="16" fill="none" stroke="#ffffff" stroke-opacity="0.18"/>
+  <text x="26" y="34" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="19" font-weight="700" fill="#ffffff">Writer</text>
+  <text x="26" y="51" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="10.5" font-weight="600" letter-spacing="1.5" fill="#FFEDD5">THE WORDS I WRITE</text>
+  <text x="214" y="42" font-family="'Segoe UI',Arial,sans-serif" font-size="22" font-weight="700" fill="#ffffff">&#8594;</text>
+</svg>

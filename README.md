@@ -27,6 +27,6 @@
 
 <br/><br/>
 
-<sub>🤝 Always up for a good conversation — or a game of Chinese Chess.</sub>
+<sub>☕ Always up for grabbing a coffee and chatting.</sub>
 
 </div>

@@ -27,6 +27,8 @@
 
 <br/><br/>
 
-<sub>☕ Always up for grabbing a coffee and chatting.</sub>
+<h3>☕ Always up for grabbing a coffee and chatting</h3>
+
+<a href="mailto:nguyenthehop2000@gmail.com"><img src="https://img.shields.io/badge/Let's%20grab%20a%20coffee-%E2%98%95-FF6719?style=for-the-badge&labelColor=111" alt="Let's grab a coffee"></a>
 
 </div>

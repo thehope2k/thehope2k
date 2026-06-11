@@ -15,12 +15,19 @@
 </p>
 
 <p align="center">
-  Three sides of the same person — the <strong>Developer</strong> who builds software for a living,
-  the <strong>Writer</strong> who can't stop telling stories, and the <strong>Thinker</strong>
-  forever halfway through learning something new.
+  I build software for a living — and somehow keep building Chinese Chess engines for fun.<br/>
+  Attitude first: curiosity, honesty, and good energy, whether I'm squashing a bug or just sharing a meal.
 </p>
 
-<p align="center">
+### A few true things about me
+
+- ♟️ I cut classes in university to play Chinese Chess. Graduated anyway — then built both an [online platform](https://thehope2k.com/professional/) *and* an AI engine for it. No regrets.
+- 🧠 I quit programming at the Dynamic Programming chapter back in high school. Still don't fully understand DP. We don't talk about it.
+- 📐 How I pick what to learn: 30% below my level (to teach), 30% at my edge (to grow), 30% beyond it (to stay inspired)… the last 10% is room for laziness and luck.
+- ✍️ Off the clock I [write](https://thehope2k.com/personal/) — mostly reflective essays, mostly in Vietnamese, mostly about small ordinary moments. Writing is thinking.
+- 📚 Currently chasing better habits and less stuff — *Atomic Habits* and minimalism are the [rabbit holes](https://thehope2k.com/growth/) of the moment.
+
+<p align="left">
   <a href="https://thehope2k.com"><img src="https://img.shields.io/badge/Website-thehope2k.com-111?style=flat-square&logo=astro&logoColor=white" alt="Website"></a>
   <a href="https://substack.com/@thehope2k"><img src="https://img.shields.io/badge/Substack-FF6719?style=flat-square&logo=substack&logoColor=white" alt="Substack"></a>
   <a href="https://www.linkedin.com/in/the-hope/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -36,6 +43,6 @@
 
 <br/><br/>
 
-<sub>🤝 Always up for a good conversation.</sub>
+<sub>🤝 Always up for a good conversation — or a game of Chinese Chess.</sub>
 
 </div>

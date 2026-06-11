@@ -10,14 +10,6 @@
 - ✍️ **[An Occasional Writer](https://thehope2k.com/personal/)** — for when I want to talk trash about people or life, and *very* rarely share something actually useful.
 - 🧠 **[A Thinker](https://thehope2k.com/growth/)** — still hoping someone comes along and finds the switch to shut my brain down.
 
-<br/>
-
-### A few true things about me
-
-- ♟️ I cut classes in university to play Chinese Chess. Graduated anyway — then built both an online platform *and* an AI engine for it. No regrets.
-- 🧠 I quit programming at the Dynamic Programming chapter back in high school. Still don't fully understand DP. We don't talk about it.
-- 📐 How I pick what to learn: 30% below my level (to teach), 30% at my edge (to grow), 30% beyond it (to stay inspired)… the last 10% is room for laziness and luck.
-
 ---
 
 <p align="center">

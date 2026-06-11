@@ -4,32 +4,47 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=900&center=true&vCenter=true&width=720&color=2563EB&lines=A+software+developer...;...who+happens+to+develop+software+for+a+living;...in+this+lifetime." alt="typing tagline" />
 </p>
 
-<blockquote align="center">
-  <h3>A software developer who happens to develop software for a living — in this lifetime.</h3>
-  <p><em>What I'm really here for: talking with people, and experiencing life.</em></p>
-</blockquote>
+<p align="center">
+  <strong>Developer. Writer. Thinker.</strong><br/>
+  <em>What I'm really here for: talking with people, and experiencing life.</em>
+</p>
 
 <p align="center">
   <a href="https://thehope2k.com"><img src="https://img.shields.io/badge/Website-thehope2k.com-2563eb?style=for-the-badge&logo=astro&logoColor=white" alt="Website"></a>
-  <a href="https://substack.com/@thehope2k"><img src="https://img.shields.io/badge/Substack-Read%20my%20writing-FF6719?style=for-the-badge&logo=substack&logoColor=white" alt="Substack"></a>
-  <a href="mailto:nguyenthehop2000@gmail.com"><img src="https://img.shields.io/badge/Email-say%20hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://substack.com/@thehope2k"><img src="https://img.shields.io/badge/Substack-Writing-FF6719?style=for-the-badge&logo=substack&logoColor=white" alt="Substack"></a>
+  <a href="https://www.linkedin.com/in/the-hope/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.facebook.com/TinhPuskin/"><img src="https://img.shields.io/badge/Facebook-Say%20hi-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
 </p>
 
 ---
 
-### 🧭 The short version
+<h3 align="center">My world, in three parts</h3>
 
-- 💻 The job title says *software developer*. It's how I make a living — not the whole story.
-- 🗣️ What I actually love: **good conversations with real people** and the slow art of **experiencing life**.
-- 🌐 Everything you should know about me lives at **[thehope2k.com](https://thehope2k.com)**.
-- ✍️ I write down the thoughts and rabbit holes on **[Substack](https://substack.com/@thehope2k)**.
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h4>💼 Professional</h4>
+      Resume, skills, projects, and the technical background. For recruiters, collaborators, or anyone curious about what I build.
+      <br/><br/>
+      <a href="https://thehope2k.com/professional/">Professional profile →</a>
+    </td>
+    <td width="33%" valign="top">
+      <h4>✍️ Personal</h4>
+      Creative writing, personal projects, stories and reflections — the life that happens outside the day job.
+      <br/><br/>
+      <a href="https://thehope2k.com/personal/">Read my writing →</a>
+    </td>
+    <td width="33%" valign="top">
+      <h4>🌱 Growth</h4>
+      Notes from the learning journey: tutorials, book notes, and reflections on getting a little better over time.
+      <br/><br/>
+      <a href="https://thehope2k.com/growth/">Explore my learning →</a>
+    </td>
+  </tr>
+</table>
 
-### 🎒 Beyond the code
-
-- 📚 Forever "currently learning" something — the list never gets shorter, and I've made peace with that.
-- 🤔 I believe the best code is the code you didn't have to write — same goes for most things.
-- 🌱 A fan of small, compounding improvements: in software, in conversations, in life.
-- ☕ Powered by curiosity, caffeine, and the people I get to share time with.
+> The job title says *software developer* — it's how I make a living, not the whole story.
+> What I actually love is good conversations and the slow art of experiencing life.
 
 ---
 
